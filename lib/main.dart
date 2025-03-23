@@ -5,6 +5,8 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:hive/hive.dart';
 import 'package:path_provider/path_provider.dart';
 
+// This is the main entry point of the application.
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
